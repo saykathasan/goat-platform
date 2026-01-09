@@ -15,5 +15,10 @@
     "@react-three/drei": "^9.92.7",
     "three-mesh-bvh": "^0.8.0",
     "framer-motion": "^10.18.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.11.0"
   }
 }
